@@ -1,23 +1,12 @@
 {
   "name": "QQ_Mobile_Music",
   "version": "1.0.0",
-  "description": "移动端qq音乐",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/luojiajing12345/QQ_Mobile_Music.git"
-  },
-  "keywords": [],
-  "author": {
-    "name":"JaKing",
-    "email":"1259164246@qq.com"
-  },
+  "repository": "git@github.com:luojiajing12345/QQ_Mobile_Music.git",
+  "author": "luojiajing12345 <33891877+luojiajing12345@users.noreply.github.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/luojiajing12345/QQ_Mobile_Music/issues"
-  },
-  "homepage": "https://github.com/luojiajing12345/QQ_Mobile_Music#readme"
+  "dependencies": {
+    "node-sass": "^4.12.0",
+    "parcel": "^1.12.3"
+  }
 }
